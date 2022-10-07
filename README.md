@@ -41,7 +41,7 @@ Here it does not matters, whether you are a **beginner** or an **expert**. Grab 
 
 </div>
 
-We have got all **domains** for you. Your all **valid contribution** will be joyfully welcomed whether you are a **developer** or a **competitive programmer**. All you have to do is to pick a topic that is not added to the repository, study it, and then demonstrate the information in a **Markup Documentation** file as you usually see in the official docs or websites like GFG, Javapoint, etc.
+We have got all **domains** for you. Your all **valid contribution** will be joyfully welcomed whether you are a novice or expert we got your back ranging from  **developer** or a **competitive programmer**. All you have to do is to pick a topic that is not added to the repository, study it, and then demonstrate the information in a **Markup Documentation** file as you usually see in the official docs or websites like GFG, Javapoint, etc.
 
 ***
 
